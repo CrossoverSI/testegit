@@ -5,3 +5,4 @@ Saturno
 Urano
 Neptuno
 Plutão
+Mercúrio
