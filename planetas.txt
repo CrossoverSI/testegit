@@ -1,3 +1,5 @@
 Terra
 Marte
-Jupter
+Jupiter
+Saturno
+Urano
